@@ -1,12 +1,12 @@
 <h1 align = "center">Hey 👋, I'm Kayla E.J</h1>
 <h3 align = "center">Software Engineering Student | Aspiring Software Developer</h3>
 
-- 🔭 I build front-end interfaces for web applications using React, JavaScript, and TypeScript  
-- 🌱 I have experience developing UI components with modern frameworks such as Tailwind CSS and Bootstrap  
-- 🧩 I integrate front-end applications with REST APIs and relational databases using SQL  
-- 🖥️ I have experience working with C# and .NET concepts in desktop and web-based applications  
-- 👯 I enjoy collaborating with project managers, faculty, and other developers on team-based projects  
-- 💬 Strong communicator with experience documenting work and explaining technical decisions clearly 
+- 🎓 Software Engineering Technology student at Centennial College  
+- 🔭 Build front-end interfaces using React, JavaScript, and TypeScript  
+- 🎨 Use Tailwind CSS and Bootstrap to create responsive, accessible UIs  
+- 🔗 Integrate front-end applications with REST APIs and SQL databases  
+- 🖥️ Experience with C# and .NET in academic desktop and web projects  
+- 🤝 Collaborative, communicative, and able to deliver reliable work under deadlines  
 - 📫 Contact me: kayla.ernest.jones@gmail.com | linkedin.com/in/kayla-ernest-jones18
 
 - <h3>My Tech Stack</h3>
