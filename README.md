@@ -1,7 +1,7 @@
 <h1 align = "center">Hey 👋, I'm Kayla E.J</h1>
 <h3 align = "center">Software Engineering Student | Aspiring Software Developer</h3>
 
-- 🎓 Software Engineering Technology student at Centennial College  
+- 🎓 Software Engineering student at Centennial College  
 - 🔭 Build front-end interfaces using React, JavaScript, and TypeScript  
 - 🎨 Use Tailwind CSS and Bootstrap to create responsive, accessible UIs  
 - 🔗 Integrate front-end applications with REST APIs and SQL databases  
