@@ -7,7 +7,7 @@
 - 🖥️ I have experience working with C# and .NET concepts in desktop and web-based applications  
 - 👯 I enjoy collaborating with project managers, faculty, and other developers on team-based projects  
 - 💬 Strong communicator with experience documenting work and explaining technical decisions clearly 
-- 📫 Contact me: kayla.ernest.jones@ | linkedin.com/in/kayla-ernest-jones18
+- 📫 Contact me: kayla.ernest.jones@gmail.com | linkedin.com/in/kayla-ernest-jones18
 
 - <h3>My Tech Stack</h3>
 <p align="left">
