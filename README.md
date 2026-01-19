@@ -1,26 +1,42 @@
 <h1 align = "center">Hey 👋, I'm Kayla E.J</h1>
 <h3 align = "center">Software Engineering Student | Aspiring Software Developer</h3>
 
-- 🔭 I’m currently working on academic and personal projects to build strong foundations in software engineering  
-- 🌱 I’m currently learning C#, JavaScript, SQL, Linux/Unix, and backend development concepts  
-- 👯 I enjoy collaborating on team-based projects and learning through real-world problem solving  
-- 💬 Interests: software engineering, system design, web development, and building reliable user-focused systems  
+- 🔭 I build front-end interfaces for web applications using React, JavaScript, and TypeScript  
+- 🌱 I have experience developing UI components with modern frameworks such as Tailwind CSS and Bootstrap  
+- 🧩 I integrate front-end applications with REST APIs and relational databases using SQL  
+- 🖥️ I have experience working with C# and .NET concepts in desktop and web-based applications  
+- 👯 I enjoy collaborating with project managers, faculty, and other developers on team-based projects  
+- 💬 Strong communicator with experience documenting work and explaining technical decisions clearly 
 - 📫 Contact me: kayla.ernest.jones@ | linkedin.com/in/kayla-ernest-jones18
 
 - <h3>My Tech Stack</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Unix-000000?style=for-the-badge&logo=unix&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <!-- Frontend -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+  <!-- Backend / Programming -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+
+  <!-- Systems & Tools -->
+  <img src="https://img.shields.io/badge/Unix-000000?style=for-the-badge&logo=unix&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+  <!-- Cloud / Cert -->
+  <img src="https://img.shields.io/badge/Azure_AZ--900-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 </p>
