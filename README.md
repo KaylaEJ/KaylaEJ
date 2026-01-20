@@ -2,14 +2,13 @@
 <h3 align = "center">Software Engineering Student | Aspiring Software Developer</h3>
 
 - 🎓 Software Engineering student at Centennial College  
-- 🔭 Build front-end interfaces using React, JavaScript, and TypeScript  
-- 🎨 Use Tailwind CSS and Bootstrap to create responsive, accessible UIs  
-- 🔗 Integrate front-end applications with REST APIs and SQL databases  
-- 🖥️ Experience with C# and .NET in academic desktop and web projects  
-- 🤝 Collaborative, communicative, and able to deliver reliable work under deadlines  
+- 🔭 I build front-end interfaces for web applications using React and JavaScript  
+- 🎨 I create responsive, accessible UIs with Tailwind CSS  
+- 🔗 I integrate front-end applications with REST APIs and SQL databases  
+- 🖥️ I work with C# and .NET concepts in academic desktop and web projects  
 - 📫 Contact me: kayla.ernest.jones@gmail.com | linkedin.com/in/kayla-ernest-jones18
 
-- <h3>My Tech Stack</h3>
+<h3>My Tech Stack</h3>
 <p align="left">
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
