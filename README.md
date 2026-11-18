@@ -1,4 +1,3 @@
-```html
 <h1 align="center">Hey 👋, I'm Kayla E.J</h1>
 <h3 align="center">Software Engineering Graduate | Software Development | QA & Automation</h3>
 
@@ -87,4 +86,3 @@ I'm interested in opportunities in **Software Development, Quality Assurance, an
 
 📧 **Email:** kayla.ernest.jones@gmail.com  
 💼 **LinkedIn:** [kayla-ernest-jones18](https://www.linkedin.com/in/kayla-ernest-jones18/)
-```
